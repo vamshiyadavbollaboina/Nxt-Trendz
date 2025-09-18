@@ -1,6 +1,7 @@
 ## Live Demo
 
-You can check out the project here: [Click to View](https://vamshi4v1.ccbp.tech/login)
+You can check out the project here: 
+[Click to View](https://vamshi4v1.ccbp.tech/login)
 
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
