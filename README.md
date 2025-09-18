@@ -9,17 +9,6 @@ You can check out the project here:
 Click the video below to see the app in action:  
 [Video Demo](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4)
 
-### Design Files
-
-### Set Up Instructions
-
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
-
 # Nxt Trendz - E-commerce Application ✨
 Nxt Trendz is a modern, responsive e-commerce web application built with React. It mimics the core functionalities of popular online shopping platforms like Amazon and Flipkart, providing a seamless user experience from browsing products to managing a shopping cart.
 
@@ -44,8 +33,18 @@ The application features user authentication, protected routes, dynamic product 
 
 ## Setup and Installation ⚙️
 ```bash
-git clone https://github.com/your-username/nxt-trendz.git
-cd nxt-trendz
 npm install  # or yarn install
-npm start    # runs on http://localhost:3000
+npm start    # runs on http://localhost:3000```
+
+### Refer to the video below:
+
+## 🎥 Project Demo
+Click the video below to see the app in action:  
+[Video Demo](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4)
+
+You can check out the project here: 
+[Click to View](https://vamshi4v1.ccbp.tech/login)
+
+
+
 
